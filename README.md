@@ -1,6 +1,6 @@
 # Balraj Hundal
 
-### Junior Cybersecurity Analyst | Cloud Security | Security Automation
+### Cybersecurity Post-Graduate Student | Cloud Security | Security Automation
 
 I investigate security questions by forming a testable hypothesis, collecting
 evidence, identifying the risk, and validating whether a control actually
