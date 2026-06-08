@@ -31,7 +31,7 @@ management, and network exposure.
 
 ### Python Security Lab
 
-[Private due to Integrity Reasons]
+[-Repository private due to Integrity Reasons-]
 
 A learning archive of Python work covering network discovery, subnet analysis,
 hashing, encoding, encryption, and repeatable command-line workflows.
