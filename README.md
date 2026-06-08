@@ -1,15 +1,15 @@
 # Balraj Hundal
 
-### Cybersecurity Post-Graduate Student | Cloud Security | Security Automation
+### Cybersecurity Post-Graduate Student | Security Investigations | Cloud Security | Python Automation
 
 I investigate security questions by forming a testable hypothesis, collecting
 evidence, identifying the risk, and validating whether a control actually
 worked.
 
-My current portfolio focuses on cloud identity, secrets management, network
-exposure, and Python-based security automation. I write each project so another
-analyst can understand what I tested, what I observed, and what should happen
-next.
+My current portfolio focuses on security investigations, cloud identity,
+secrets management, network exposure, and Python-based security automation. I
+write each project so another analyst can understand what I tested, what I
+observed, what the evidence does not prove, and what should happen next.
 
 ## Featured Security Work
 
@@ -26,6 +26,15 @@ control areas:
 
 The assessment is being documented with a clear research question, threat and
 risk statements, before/after tests, and evidence-backed conclusions.
+
+### Network Security Investigations
+
+[View the investigation portfolio](https://github.com/Balraj7860/network-security-investigations)
+
+Sanitized academic case studies covering Splunk telemetry validation, packet
+capture triage, Wireshark stream analysis, and NetworkMiner artifact review.
+Each investigation separates observations from conclusions and documents
+limitations, alternative explanations, and next validation steps.
 
 ### Python Security Lab
 
@@ -48,14 +57,14 @@ line workflows.
 
 - Building before/after evidence for the cloud security assessment
 - Improving Python security tooling and documentation
-- Developing SOC investigation case studies for alert triage, Windows events,
-  phishing analysis, and network traffic analysis
+- Expanding the network investigation portfolio with repeatable triage methods
+  and evidence-backed conclusions
 
 ## Technical Skills
 
 | Area | Tools and concepts |
 | --- | --- |
-| Security analysis | Evidence collection, risk analysis, control validation, remediation reporting |
+| Security analysis | Splunk, Wireshark, tcpdump, NetworkMiner, evidence collection, risk analysis, control validation |
 | Cloud security | IAM, least privilege, secrets management, network segmentation, attack-surface reduction |
 | Networking | TCP/IP, ports and services, subnetting, network exposure testing |
 | Automation | Python, Bash, repeatable security checks |
