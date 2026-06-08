@@ -31,7 +31,7 @@ management, and network exposure.
 
 ### Python Security Lab
 
-[View the repository](https://github.com/Balraj7860/PythonForCyberSecurity)
+[Private due to Integrity Reasons]
 
 A learning archive of Python work covering network discovery, subnet analysis,
 hashing, encoding, encryption, and repeatable command-line workflows.
