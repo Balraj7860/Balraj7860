@@ -1,15 +1,16 @@
 # Balraj Hundal
 
-### Cybersecurity Post-Graduate Student | Security Investigations | Cloud Security | Python Automation
+### Cybersecurity Post-Graduate Student | Security Investigations | Vulnerability Assessment | Cloud Security
 
 I investigate security questions by forming a testable hypothesis, collecting
 evidence, identifying the risk, and validating whether a control actually
 worked.
 
-My current portfolio focuses on security investigations, cloud identity,
-secrets management, network exposure, and Python-based security automation. I
-write each project so another analyst can understand what I tested, what I
-observed, what the evidence does not prove, and what should happen next.
+My portfolio focuses on security investigations, vulnerability assessment,
+cloud identity, secrets management, network exposure, and Python-based security
+automation. I write each project so another analyst can understand what I
+tested, what I observed, what the evidence does not prove, and what should
+happen next.
 
 ## Featured Security Work
 
@@ -57,14 +58,16 @@ line workflows.
 
 - Building before/after evidence for the cloud security assessment
 - Improving Python security tooling and documentation
-- Expanding the network investigation portfolio with repeatable triage methods
-  and evidence-backed conclusions
+- Studying vulnerability assessment and exploitation workflows in authorized
+  academic labs using Metasploit Framework, msfvenom, John the Ripper, Hydra,
+  Maigret, and Windows SMB scenarios
 
 ## Technical Skills
 
 | Area | Tools and concepts |
 | --- | --- |
 | Security analysis | Splunk, Wireshark, tcpdump, NetworkMiner, evidence collection, risk analysis, control validation |
+| Vulnerability assessment | Authorized lab reconnaissance, validation, exploitation workflow documentation, remediation thinking |
 | Cloud security | IAM, least privilege, secrets management, network segmentation, attack-surface reduction |
 | Networking | TCP/IP, ports and services, subnetting, network exposure testing |
 | Automation | Python, Bash, repeatable security checks |
