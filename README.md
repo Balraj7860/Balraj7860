@@ -1,86 +1,62 @@
+<img src="./assets/profile-banner.svg" alt="Balraj Hundal | Evidence-driven security analysis" width="100%" />
+
 # Balraj Hundal
 
-### Cybersecurity Post-Graduate Student | Security Investigations | Vulnerability Assessment | Cloud Security
+Cybersecurity post-graduate student at Douglas College focused on security
+analysis that is clear, testable, and supported by evidence.
 
-I investigate security questions by forming a testable hypothesis, collecting
-evidence, identifying the risk, and validating whether a control actually
-worked.
+My strongest work so far sits at the intersection of network security, cloud
+security, and vulnerability-focused lab analysis. I enjoy taking a messy
+technical question, reducing it to what can actually be observed, and writing
+the result so another analyst can follow the reasoning.
 
-My portfolio focuses on security investigations, vulnerability assessment,
-cloud identity, secrets management, network exposure, and Python-based security
-automation. I write each project so another analyst can understand what I
-tested, what I observed, what the evidence does not prove, and what should
-happen next.
+## Selected Work
 
-## Featured Security Work
+### Evidence-Driven Network Security Investigations
+
+[View the repository](https://github.com/Balraj7860/network-security-investigations)
+
+Sanitized case studies built from authorized academic labs covering Splunk
+telemetry validation, packet capture triage, Wireshark session analysis, and
+NetworkMiner artifact review. Each report separates observations from
+conclusions and documents limitations, confidence, and next validation steps.
 
 ### Cloud Application Security Assessment
 
 [View the repository](https://github.com/Balraj7860/SpecialTopicInCyberSecurity_Project)
 
-An in-progress assessment of a three-tier cloud application. The project
-compares an intentionally insecure baseline with a hardened design across two
-control areas:
-
-- Identity, access, and secrets management
-- Network exposure and perimeter controls
-
-The assessment is being documented with a clear research question, threat and
-risk statements, before/after tests, and evidence-backed conclusions.
-
-### Network Security Investigations
-
-[View the investigation portfolio](https://github.com/Balraj7860/network-security-investigations)
-
-Sanitized academic case studies covering Splunk telemetry validation, packet
-capture triage, Wireshark stream analysis, and NetworkMiner artifact review.
-Each investigation separates observations from conclusions and documents
-limitations, alternative explanations, and next validation steps.
+An in-progress assessment of a three-tier cloud application comparing an
+intentionally insecure baseline with focused controls for identity, secrets
+management, and network exposure.
 
 ### Python Security Lab
 
 [View the repository](https://github.com/Balraj7860/PythonForCyberSecurity)
 
-A learning archive of Python exercises covering network discovery, subnet
-analysis, hashing, encoding, encryption, key exchange, and repeatable command
-line workflows.
+A learning archive of Python work covering network discovery, subnet analysis,
+hashing, encoding, encryption, and repeatable command-line workflows.
 
-## How I Approach an Investigation
+## Coursework Foundation
 
-1. Define the security question and expected safe behavior.
-2. Establish and document the baseline.
-3. Collect relevant technical evidence.
-4. Explain the risk and likely impact in plain language.
-5. Recommend or implement a focused control.
-6. Retest and document the result, limitations, and next action.
+- Dean's List and Honour Roll standing in the Computer & Information Systems
+  post-baccalaureate diploma
+- Strong course results in Network CyberSecurity, Cloud CyberSecurity, Evidence
+  Imaging, Special Topics in Emerging Tech, and Data Visualization
+- Current semester: Vulnerabilities and Exploits, Special Topics in
+  CyberSecurity, and Applied Research Project
 
-## Current Focus
+## Tools I Can Back With Public Work
 
-- Building before/after evidence for the cloud security assessment
-- Improving Python security tooling and documentation
-- Studying vulnerability assessment and exploitation workflows in authorized
-  academic labs using Metasploit Framework, msfvenom, John the Ripper, Hydra,
-  Maigret, and Windows SMB scenarios
+- Security analysis: Splunk, Wireshark, tcpdump, TShark, Dumpcap, NetworkMiner
+- Cloud security: IAM, secrets management, network segmentation, exposure review
+- Scripting and automation: Python, Bash, repeatable lab workflows
+- Development context: Node.js, Express, React, Git
 
-## Technical Skills
+## How I Approach Security Work
 
-| Area | Tools and concepts |
-| --- | --- |
-| Security analysis | Splunk, Wireshark, tcpdump, NetworkMiner, evidence collection, risk analysis, control validation |
-| Vulnerability assessment | Authorized lab reconnaissance, validation, exploitation workflow documentation, remediation thinking |
-| Cloud security | IAM, least privilege, secrets management, network segmentation, attack-surface reduction |
-| Networking | TCP/IP, ports and services, subnetting, network exposure testing |
-| Automation | Python, Bash, repeatable security checks |
-| Development | JavaScript, Node.js, Express, React, Git |
+- Start with a clear security question.
+- Keep observations separate from conclusions.
+- Document false positives, limitations, and next steps.
+- Treat remediation as something to verify, not assume.
 
-## What I Am Looking For
-
-I am pursuing entry-level opportunities where I can investigate alerts,
-document findings clearly, and help a security or IT operations team reduce
-risk. I am particularly interested in Junior Security Analyst, SOC Analyst
-Tier 1, and security-focused IT support roles in Canada.
-
----
-
-**Working principle:** a security finding is only useful when the evidence is
-clear, the risk is understood, and the recommended action can be verified.
+[LinkedIn](https://www.linkedin.com/in/balraj-singh-55974b3ab/) | [GitHub](https://github.com/Balraj7860)

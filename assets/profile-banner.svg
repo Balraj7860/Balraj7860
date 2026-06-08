@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Balraj Hundal profile banner</title>
+  <desc id="desc">Evidence-driven security analysis banner for GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09131f"/>
+      <stop offset="52%" stop-color="#10263b"/>
+      <stop offset="100%" stop-color="#133654"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#45d6a8"/>
+      <stop offset="100%" stop-color="#63b3ff"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#9db8ca" stroke-width="1" opacity="0.08"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+
+  <circle cx="1080" cy="60" r="180" fill="#39cfa7" opacity="0.08" filter="url(#glow)"/>
+  <circle cx="1110" cy="315" r="210" fill="#59a9ff" opacity="0.1" filter="url(#glow)"/>
+
+  <g fill="none" stroke="url(#line)" stroke-width="2.5" opacity="0.75">
+    <path d="M84 88 H248 L312 146 H482"/>
+    <path d="M70 280 H232 L298 214 H432"/>
+    <path d="M956 98 H1090 L1152 154 H1260"/>
+  </g>
+
+  <g fill="#6ddcc1">
+    <circle cx="84" cy="88" r="4"/>
+    <circle cx="482" cy="146" r="4"/>
+    <circle cx="70" cy="280" r="4"/>
+    <circle cx="432" cy="214" r="4"/>
+    <circle cx="956" cy="98" r="4"/>
+    <circle cx="1260" cy="154" r="4"/>
+  </g>
+
+  <rect x="534" y="72" width="124" height="6" rx="3" fill="url(#line)"/>
+
+  <text x="534" y="132" fill="#edf5fb"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="24" font-weight="700" letter-spacing="3">BALRAJ HUNDAL</text>
+
+  <text x="534" y="194" fill="#f8fbfe"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="42" font-weight="700">Evidence-Driven</text>
+  <text x="534" y="244" fill="#f8fbfe"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="42" font-weight="700">Security Analysis</text>
+
+  <text x="536" y="292" fill="#aac5d7"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="18" letter-spacing="2">NETWORK SECURITY | CLOUD SECURITY | VULNERABILITY LABS</text>
+</svg>
